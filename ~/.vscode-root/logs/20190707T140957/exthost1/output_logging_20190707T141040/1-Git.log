@@ -1,0 +1,79 @@
+Looking for git in: git
+Using git 2.19.1 from git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+> git config --get commit.template
+Open repository: /home/mshahzaib/Desktop/screenshotWithReact
+> git status -z -u
+> git show :package-lock.json
+> git ls-files --stage -- ./
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
